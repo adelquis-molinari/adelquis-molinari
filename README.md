@@ -10,15 +10,13 @@ _Desarrolador FrondEnd._
 Soy una persona que vusca crecer y encuentro en la **programación una via de expresión**. En este perfil podras encontrar los proyectos **que marcaron ni evolucion como programador**.
 
 ## ⚙️ Algunas herramientas que uso diariamente
-<img src=/icons/vsc.png height=80></img>
-<img src=/icons/react.png height=80></img>
-<img src=/icons/sc.png height=80></img>
-<img src=/icons/js.png height=80></img>
-<img src=/icons/npm.png height=80></img>
-<img src=/icons/node.svg height=80></img>
-<img src=/icons/csshtml.png height=80></img>
-<img src=/icons/vercel.png height=80></img>
-<img src=/icons/heroku1.png height=80></img>
+<img src=https://user-images.githubusercontent.com/66643930/144768703-15553edf-4e18-4d02-9817-5c91fdc957ce.png height=80></img>
+<img src=https://user-images.githubusercontent.com/66643930/144768707-cae939bc-763b-4302-82fe-ecb9ff2eedcb.png height=80></img>
+<img src=https://user-images.githubusercontent.com/66643930/144768708-e2dca936-6e8e-4688-a0b7-e0484efa0439.png height=80></img>
+<img src=https://user-images.githubusercontent.com/66643930/144768709-39fbe027-8d43-4fbe-8067-09573d6f431a.png height=80></img>
+<img src=https://user-images.githubusercontent.com/66643930/144768705-05b3d032-b891-4e4a-934e-74f738873743.png height=80></img>
+<img src=https://user-images.githubusercontent.com/66643930/144768836-1dac32da-285f-45fd-9efb-b016d1e053dc.png height=80></img>
+<img src=https://user-images.githubusercontent.com/66643930/144768702-2edb9552-bb11-43bb-8d1b-6ad30b2710b8.png height=80></img>
 ## ✨ Lenguajes mas usados
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanStromanIlz&layout=compact&hide_title=true&theme=dark)](https://github.com/JuanStromanIlz/github-readme-stats)
 <!--
