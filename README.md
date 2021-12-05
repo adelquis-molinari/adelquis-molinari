@@ -17,7 +17,7 @@ Soy una persona que vusca crecer y encuentro en la **programación una via de ex
 <img src=https://user-images.githubusercontent.com/66643930/144768705-05b3d032-b891-4e4a-934e-74f738873743.png height=80></img>
 <img src=https://user-images.githubusercontent.com/66643930/144768836-1dac32da-285f-45fd-9efb-b016d1e053dc.png height=80></img>
 <img src=https://user-images.githubusercontent.com/66643930/144768702-2edb9552-bb11-43bb-8d1b-6ad30b2710b8.png height=80></img>
-## ✨ Lenguajes mas usados
+
 
 <!--
 **adelquis-molinari/adelquis-molinari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
