@@ -1,6 +1,7 @@
 ### Hi there 👋 is Adelk (for colleagues)
 
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/molinari-adelquis/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=googlechrome&logoColor=black)](##)
 <!--
 **adelquis-molinari/adelquis-molinari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
