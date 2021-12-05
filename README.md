@@ -18,10 +18,10 @@ Soy una persona que vusca crecer y encuentro en la **programación una via de ex
 <img src=https://user-images.githubusercontent.com/66643930/144768836-1dac32da-285f-45fd-9efb-b016d1e053dc.png height=80></img>
 <img src=https://user-images.githubusercontent.com/66643930/144768702-2edb9552-bb11-43bb-8d1b-6ad30b2710b8.png height=80></img>
 ## ✨ Lenguajes mas usados
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanStromanIlz&layout=compact&hide_title=true&theme=dark)](https://github.com/JuanStromanIlz/github-readme-stats)
+
 <!--
 **adelquis-molinari/adelquis-molinari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molinar-adelquis&layout=compact&hide_title=true&theme=dark)](https://github.com/molinari-adelquis/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
