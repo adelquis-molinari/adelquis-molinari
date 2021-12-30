@@ -7,7 +7,7 @@
 
 _Desarrolador FrondEnd._ 
 
-Soy una persona que vusca crecer y encuentro en la **programación una via de expresión**. En este perfil podras encontrar los proyectos **que marcaron ni evolucion como programador**.
+Soy una persona que busca crecer y encuentro en la **programación una via de expresión**. En este perfil podras encontrar los proyectos **que marcaron ni evolucion como programador**.
 
 ## ⚙️ Algunas herramientas que uso diariamente
 <img src=https://user-images.githubusercontent.com/66643930/144768703-15553edf-4e18-4d02-9817-5c91fdc957ce.png height=70></img>
