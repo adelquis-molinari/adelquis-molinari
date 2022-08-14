@@ -1,4 +1,4 @@
-### Hi there 👋 is Adelk (for colleagues)
+### Hola 👋! Soy Adelk (como me dicen mis colegas)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/molinari-adelquis/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=googlechrome&logoColor=black)](##)
