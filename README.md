@@ -22,6 +22,5 @@ Soy una persona que busca crecer y encuentro en la **programación una via de ex
 ![HTML5](https://img.shields.io/static/v1?label=Git&message=%20&color=f40420)
 ![HTML5](https://img.shields.io/static/v1?label=Figma&message=%20&color=f24e1e)
 
-## _Proyectos_
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adelquis-molinari&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelquis-molinari&layout=compact&show_icons=true&theme=tokyonight)]
